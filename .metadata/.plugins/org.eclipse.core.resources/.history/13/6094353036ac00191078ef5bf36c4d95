@@ -1,0 +1,5 @@
+package com.netcodespringboot.app.product.models.entity;
+
+public class Product {
+
+}

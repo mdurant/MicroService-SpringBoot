@@ -1,0 +1,15 @@
+package com.netcodespringboot.app.product.models.entity;
+
+import java.util.Date;
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity 
+@Table(name = "products")
+public class Product {
+	
+	private Long id;
+	private String name;
+	
+
+}
